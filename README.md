@@ -45,6 +45,10 @@
         <li>Criação do simulador</li>
         <li>Salvando e carregando o modelo</li>
     </ol>
+    <h3>Prévia do projeto</h3>
+    <img src="img/simulador.PNG">
+    <br>
+    <br>
     <p>Os detalhes sobre a estruturação e criação do modelo podem ser verificados no notbook "Modelo de regressão linear.ipynb" nesse repositório</p>
     <p>O simulador executável pode ser acessado no notbook "simulador.ipynb" também nesse repositório</p>
     <p>Este é um projeto iniciante! futuramente desenvolverei modelos mais completos</p>
